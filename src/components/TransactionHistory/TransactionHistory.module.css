@@ -1,0 +1,22 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #383838;
+  color: #fff;
+  border: 1px solid black;
+}
+
+tbody {
+  text-transform: capitalize;
+}
+
+td {
+  border: 1px solid black;
+}
+
+tr:nth-child(even) {
+  background-color: gray;
+}

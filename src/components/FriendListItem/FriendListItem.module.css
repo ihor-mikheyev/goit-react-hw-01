@@ -1,0 +1,13 @@
+.card {
+  border: 2px solid #000;
+  padding: 1rem 1.5rem;
+  border-radius: 0.25rem;
+}
+
+.offline {
+  color: orangered;
+}
+
+.online {
+  color: green;
+}
